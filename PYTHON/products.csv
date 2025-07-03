@@ -1,0 +1,301 @@
+product_id,product_name,category,unit_price,stock_level
+Prod001,Pita Pack,Condiments,66.58,165
+Prod002,SodaStream Gas,Bakery,105.69,90
+Prod003,Hummus Classic,Snacks,194.55,145
+Prod004,Hummus Classic,Condiments,58.33,180
+Prod005,Tahini Jar,Bakerey,134.84,8
+Prod006,Shoko in a Bag,Bakerey,85.93,150
+Prod007,Pita Pack,Condiments,293.71,173
+Prod008,Olive Oil 750ml,Snacks,113.72,158
+Prod009,Tahini Jar,Snacks,217.64,96
+Prod010,Pita Pack,Electronics,143.65,89
+Prod011,Shoko in a Bag,Bakery,297.65,163
+Prod012,Tahini Jar,Snacks,255.79,7
+Prod013,Tahini Jar,Electornics,235.08,
+Prod014,SodaStream Gas,Bakerey,132.14,79
+,Tahini Jar,Bakery,289.9,35
+Prod016,Olive Oil 750ml,Snacks,50.08,86
+Prod017,Olive Oil 750ml,Bakery,42.86,15
+Prod018,SodaStream Gas,Snacks,38.46,92
+Prod019,Tahini Jar,Electronics,265.64,21
+Prod020,Olive Oil 750ml,Condiments,144.29,57
+Prod021,Shoko in a Bag,Bakery,235.22,87
+Prod022,Shoko in a Bag,Condiments,188.85,44
+Prod023,SodaStream Gas,Electornics,33.72,200
+Prod024,Olive Oil 750ml,Bakerey,46.35,170
+Prod025,Shoko in a Bag,Bakery,167.24,78
+Prod026,SodaStream Gas,Electornics,164.2,178
+Prod027,SodaStream Gas,Bakery,66.51,9
+Prod028,Hummus Classic,Condiments,134.97,150
+Prod029,Olive Oil 750ml,Bakerey,69.3,183
+Prod030,Tahini Jar,Electronics,163.6,38
+Prod031,Pita Pack,Electronics,253.67,124
+Prod032,SodaStream Gas,Bakery,215.52,
+Prod033,Olive Oil 750ml,Electronics,289.65,197
+Prod034,Shoko in a Bag,Electornics,267.4,50
+Prod035,Pita Pack,Bakerey,33.83,188
+Prod036,Pita Pack,Condiments,256.64,
+Prod037,SodaStream Gas,Condiments,199.15,30
+Prod038,SodaStream Gas,Bakerey,279.16,11
+Prod039,SodaStream Gas,Electornics,43.92,96
+Prod040,Shoko in a Bag,Condiments,146.9,85
+Prod041,Tahini Jar,Bakerey,231.33,69
+Prod042,Olive Oil 750ml,Electornics,166.57,160
+Prod043,SodaStream Gas,Electronics,44.44,39
+Prod044,Shoko in a Bag,Snacks,212.66,75
+Prod045,Tahini Jar,Bakerey,93.17,88
+Prod046,Shoko in a Bag,Condiments,15.26,84
+Prod047,Pita Pack,Snacks,65.17,23
+Prod048,Pita Pack,Snacks,202.51,111
+Prod049,Pita Pack,Electronics,232.41,61
+Prod050,Pita Pack,Electornics,104.41,84
+Prod051,SodaStream Gas,Bakery,132.28,74
+Prod052,Olive Oil 750ml,Electronics,20.18,183
+Prod053,Pita Pack,Electronics,286.88,60
+Prod054,Tahini Jar,Bakerey,208.07,71
+Prod055,Pita Pack,Electronics,178.57,93
+Prod056,Shoko in a Bag,Bakery,70.68,197
+Prod057,Shoko in a Bag,Electronics,38.69,167
+Prod058,Olive Oil 750ml,Bakery,128.99,135
+Prod059,Pita Pack,Snacks,86.78,129
+Prod060,Hummus Classic,Snacks,150.33,184
+Prod061,Pita Pack,Electornics,86.13,195
+Prod062,Hummus Classic,Condiments,69.27,176
+Prod063,Tahini Jar,Electornics,222.1,55
+Prod064,Tahini Jar,Condiments,129.8,126
+Prod065,Shoko in a Bag,Electornics,93.94,43
+Prod066,Tahini Jar,Electornics,50.25,58
+,Tahini Jar,Snacks,143.12,117
+Prod068,Olive Oil 750ml,Electronics,150.85,20
+Prod069,Tahini Jar,Electronics,92.24,23
+Prod070,Shoko in a Bag,Electronics,123.35,37
+Prod071,SodaStream Gas,Electornics,143.68,24
+Prod072,SodaStream Gas,Snacks,51.93,
+Prod073,Pita Pack,Electornics,285.75,102
+Prod074,Tahini Jar,Bakerey,192.06,89
+Prod075,Olive Oil 750ml,Bakery,223.57,46
+Prod076,Hummus Classic,Bakerey,280.83,118
+Prod077,Pita Pack,Bakerey,122.41,174
+Prod078,SodaStream Gas,Bakery,258.3,66
+Prod079,Olive Oil 750ml,Electronics,248.13,75
+Prod080,Olive Oil 750ml,Bakerey,6.59,21
+Prod081,Tahini Jar,Bakery,60.82,169
+Prod082,Olive Oil 750ml,Bakerey,82.76,188
+Prod083,Pita Pack,Electornics,273.09,31
+Prod084,Tahini Jar,Snacks,198.47,102
+Prod085,Shoko in a Bag,Snacks,255.15,40
+Prod086,Olive Oil 750ml,Snacks,78.85,
+Prod087,Tahini Jar,Electornics,16.29,9
+Prod088,Tahini Jar,Snacks,58.33,130
+Prod089,Olive Oil 750ml,Condiments,7.44,123
+Prod090,Pita Pack,Electronics,112.75,69
+Prod091,Hummus Classic,Snacks,295.88,146
+Prod092,SodaStream Gas,Electronics,169.91,108
+Prod093,Pita Pack,Condiments,76.97,108
+Prod094,SodaStream Gas,Electornics,54.3,55
+Prod095,SodaStream Gas,Bakery,65.29,
+Prod096,SodaStream Gas,Condiments,170.98,76
+Prod097,SodaStream Gas,Bakery,178.27,196
+Prod098,Tahini Jar,Snacks,119.46,189
+Prod099,Olive Oil 750ml,Bakerey,106.41,18
+Prod100,SodaStream Gas,Bakery,219.39,173
+Prod101,SodaStream Gas,Electronics,296.93,38
+Prod102,Hummus Classic,Bakery,170.51,185
+Prod103,Hummus Classic,Electornics,108.54,27
+Prod104,Pita Pack,Electronics,74.68,
+Prod105,Shoko in a Bag,Snacks,169.74,184
+Prod106,Tahini Jar,Condiments,152.77,138
+Prod107,Hummus Classic,Electornics,164.29,104
+Prod108,Hummus Classic,Electornics,286.22,122
+Prod109,Hummus Classic,Condiments,214.15,111
+Prod110,SodaStream Gas,Bakerey,253.1,165
+Prod111,SodaStream Gas,Electornics,298.51,98
+Prod112,Olive Oil 750ml,Electornics,81.77,19
+Prod113,Hummus Classic,Condiments,264.03,
+Prod114,Pita Pack,Snacks,49.7,198
+Prod115,Olive Oil 750ml,Bakery,275.48,54
+Prod116,Olive Oil 750ml,Condiments,263.54,-2
+Prod117,Pita Pack,Bakerey,190.65,185
+Prod118,Hummus Classic,Bakery,37.47,123
+Prod119,Olive Oil 750ml,Bakerey,205.11,192
+Prod120,Hummus Classic,Electronics,74.42,10
+Prod121,Shoko in a Bag,Snacks,279.75,113
+Prod122,Shoko in a Bag,Bakery,139.3,175
+Prod123,SodaStream Gas,Electronics,164.37,
+Prod124,Pita Pack,Electronics,173.89,
+Prod125,Hummus Classic,Bakery,217.38,2
+Prod126,Hummus Classic,Electornics,195.94,93
+Prod127,Shoko in a Bag,Electornics,158.6,19
+Prod128,Tahini Jar,Snacks,158.59,166
+Prod129,Olive Oil 750ml,Electronics,297.22,123
+Prod130,Tahini Jar,Bakerey,188.11,34
+Prod131,SodaStream Gas,Snacks,78.83,
+Prod132,Olive Oil 750ml,Electronics,227.39,24
+Prod133,Hummus Classic,Electornics,86.94,11
+Prod134,Shoko in a Bag,Electronics,288.43,131
+Prod135,SodaStream Gas,Snacks,212.74,127
+Prod136,Olive Oil 750ml,Electornics,28.22,47
+Prod137,Hummus Classic,Bakerey,131.8,183
+Prod138,Hummus Classic,Electronics,104.79,194
+Prod139,Hummus Classic,Electornics,183.8,159
+Prod140,Hummus Classic,Bakery,167.47,48
+Prod141,Shoko in a Bag,Bakery,297.23,120
+Prod142,Shoko in a Bag,Bakerey,114.34,113
+Prod143,Shoko in a Bag,Electronics,279.69,55
+Prod144,Hummus Classic,Snacks,86.17,105
+Prod145,Pita Pack,Snacks,44.15,21
+Prod146,SodaStream Gas,Bakerey,251.1,105
+Prod147,SodaStream Gas,Bakery,174.33,116
+Prod148,Pita Pack,Snacks,239.97,28
+Prod149,SodaStream Gas,Electronics,141.75,101
+Prod150,Hummus Classic,Electornics,268.28,193
+Prod151,Olive Oil 750ml,Condiments,182.64,125
+Prod152,Shoko in a Bag,Bakerey,292.88,145
+Prod153,Olive Oil 750ml,Condiments,151.95,145
+Prod154,Pita Pack,Bakerey,52.71,17
+Prod155,Tahini Jar,Electornics,201.56,43
+Prod156,Hummus Classic,Electornics,39.77,125
+Prod157,Olive Oil 750ml,Condiments,65.19,181
+Prod158,Tahini Jar,Condiments,81.67,84
+Prod159,Shoko in a Bag,Electornics,264.12,120
+Prod160,Pita Pack,Electronics,125.57,160
+Prod161,Olive Oil 750ml,Bakery,246.43,16
+Prod162,Pita Pack,Bakery,292.65,191
+Prod163,Olive Oil 750ml,Bakerey,205.01,3
+Prod164,SodaStream Gas,Bakery,73.1,186
+Prod165,Olive Oil 750ml,Snacks,55.83,63
+Prod166,Shoko in a Bag,Snacks,272.69,77
+Prod167,Olive Oil 750ml,Bakery,131.72,
+Prod168,Tahini Jar,Bakerey,213.32,
+Prod169,Shoko in a Bag,Bakerey,93.17,102
+Prod170,Tahini Jar,Snacks,168.89,138
+Prod171,Tahini Jar,Bakery,119,16
+Prod172,SodaStream Gas,Bakery,117.51,9
+Prod173,Hummus Classic,Condiments,258.65,94
+Prod174,Shoko in a Bag,Bakerey,241.14,2
+Prod175,Shoko in a Bag,Electornics,97.66,36
+Prod176,Pita Pack,Electornics,50.04,167
+Prod177,SodaStream Gas,Bakery,298.26,159
+Prod178,Olive Oil 750ml,Electornics,198.31,112
+Prod179,Tahini Jar,Bakery,35.48,107
+Prod180,Olive Oil 750ml,Electornics,208.24,80
+Prod181,Tahini Jar,Bakery,159.5,97
+Prod182,Olive Oil 750ml,Snacks,264.71,98
+Prod183,Olive Oil 750ml,Condiments,214.06,91
+Prod184,Olive Oil 750ml,Bakerey,181.65,167
+Prod185,Hummus Classic,Electornics,227.53,101
+Prod186,Hummus Classic,Electronics,31.38,79
+Prod187,Tahini Jar,Electornics,181.42,76
+Prod188,SodaStream Gas,Bakery,59.17,18
+Prod189,Hummus Classic,Electronics,66.45,182
+Prod190,Hummus Classic,Condiments,204.28,67
+Prod191,Tahini Jar,Condiments,193.45,91
+Prod192,Pita Pack,Electornics,67.5,33
+Prod193,Hummus Classic,Electornics,241.28,
+Prod194,Olive Oil 750ml,Bakery,188.99,13
+Prod195,Tahini Jar,Electronics,55.63,85
+Prod196,Olive Oil 750ml,Electronics,284.85,
+,SodaStream Gas,Bakery,105.21,137
+Prod198,Shoko in a Bag,Condiments,79.33,150
+Prod199,Shoko in a Bag,Electronics,281.41,187
+Prod200,Pita Pack,Bakery,129.44,124
+Prod201,Shoko in a Bag,Snacks,275.42,159
+,Pita Pack,Bakerey,178.18,93
+Prod203,Hummus Classic,Electornics,93.21,88
+Prod204,Hummus Classic,Bakery,157.68,127
+Prod205,SodaStream Gas,Bakery,14.32,59
+Prod206,Pita Pack,Bakerey,50.68,154
+Prod207,SodaStream Gas,Condiments,266.21,86
+Prod208,Tahini Jar,Snacks,173.87,30
+Prod209,Shoko in a Bag,Bakerey,83.64,149
+Prod210,Shoko in a Bag,Bakery,144.19,126
+Prod211,SodaStream Gas,Bakery,119.01,51
+,Pita Pack,Snacks,103.76,151
+Prod213,Pita Pack,Electornics,56.02,32
+Prod214,Olive Oil 750ml,Electornics,260.56,82
+Prod215,Tahini Jar,Condiments,253.52,147
+Prod216,Pita Pack,Bakery,146.42,166
+Prod217,SodaStream Gas,Bakery,187.82,199
+Prod218,Hummus Classic,Snacks,176.1,6
+Prod219,Hummus Classic,Condiments,288.23,82
+Prod220,Shoko in a Bag,Electronics,295.43,
+Prod221,Pita Pack,Bakerey,102.67,19
+Prod222,Tahini Jar,Bakery,48.22,75
+Prod223,Pita Pack,Snacks,170.9,58
+Prod224,Olive Oil 750ml,Snacks,246.57,72
+Prod225,Hummus Classic,Bakery,285.13,7
+Prod226,Shoko in a Bag,Bakery,193.61,
+Prod227,SodaStream Gas,Bakery,133.49,36
+Prod228,Olive Oil 750ml,Snacks,114.01,116
+Prod229,Olive Oil 750ml,Snacks,262.32,174
+Prod230,Shoko in a Bag,Bakerey,100.29,165
+Prod231,SodaStream Gas,Condiments,125.56,129
+Prod232,Shoko in a Bag,Electornics,123.25,33
+Prod233,Tahini Jar,Electronics,142.61,-2
+Prod234,Hummus Classic,Snacks,225.66,146
+Prod235,Hummus Classic,Electornics,205.8,60
+Prod236,Hummus Classic,Condiments,110.8,18
+Prod237,Hummus Classic,Bakerey,57.7,24
+Prod238,Olive Oil 750ml,Bakery,248.42,156
+Prod239,Shoko in a Bag,Condiments,40.83,30
+Prod240,Pita Pack,Condiments,125.61,73
+Prod241,Tahini Jar,Electronics,98,172
+Prod242,Pita Pack,Bakery,168.67,35
+Prod243,Tahini Jar,Electronics,241.65,77
+Prod244,Tahini Jar,Electronics,135.58,149
+Prod245,Hummus Classic,Snacks,64.78,24
+Prod246,Hummus Classic,Electronics,130.11,79
+Prod247,Olive Oil 750ml,Bakery,189.67,147
+Prod248,SodaStream Gas,Electronics,121.12,120
+Prod249,SodaStream Gas,Condiments,247.65,19
+Prod250,Shoko in a Bag,Electronics,48.16,62
+Prod251,Tahini Jar,Snacks,259.78,25
+Prod252,Tahini Jar,Electornics,175.98,122
+Prod253,Tahini Jar,Condiments,204.63,193
+Prod254,Olive Oil 750ml,Condiments,118.7,34
+Prod255,Tahini Jar,Electornics,272.54,183
+Prod256,Pita Pack,Electornics,261.92,19
+Prod257,Hummus Classic,Snacks,19.46,26
+Prod258,Hummus Classic,Condiments,151.44,38
+Prod259,Shoko in a Bag,Condiments,65.95,9
+Prod260,Olive Oil 750ml,Condiments,131.9,153
+Prod261,Olive Oil 750ml,Electronics,274.39,
+Prod262,SodaStream Gas,Condiments,129.48,178
+Prod263,SodaStream Gas,Snacks,46.87,37
+Prod264,Olive Oil 750ml,Electornics,150.93,130
+Prod265,Olive Oil 750ml,Electronics,120.1,45
+Prod266,SodaStream Gas,Electronics,51.54,99
+Prod267,Tahini Jar,Electornics,45.41,166
+Prod268,Pita Pack,Bakerey,18.76,160
+Prod269,Pita Pack,Electronics,9.08,61
+Prod270,Olive Oil 750ml,Bakery,156.98,55
+Prod271,Pita Pack,Electornics,246.47,138
+Prod272,Shoko in a Bag,Snacks,93.94,89
+Prod273,Olive Oil 750ml,Condiments,43.73,196
+Prod274,Shoko in a Bag,Condiments,235.58,148
+Prod275,SodaStream Gas,Bakerey,93.62,182
+Prod276,Pita Pack,Bakery,255.72,120
+Prod277,Olive Oil 750ml,Bakerey,166.46,150
+Prod278,Olive Oil 750ml,Bakerey,171.72,25
+Prod279,SodaStream Gas,Condiments,275.13,52
+Prod280,Shoko in a Bag,Snacks,166.07,10
+Prod281,Pita Pack,Electronics,191.09,112
+Prod282,Pita Pack,Snacks,284.22,131
+Prod283,Olive Oil 750ml,Electornics,160.2,171
+Prod284,Pita Pack,Bakerey,59.37,125
+Prod285,Pita Pack,Condiments,117.01,126
+Prod286,Tahini Jar,Bakery,125.39,
+Prod287,Hummus Classic,Condiments,248.17,123
+Prod288,Pita Pack,Condiments,257.6,141
+Prod289,Shoko in a Bag,Snacks,277.24,174
+Prod290,Pita Pack,Condiments,179,101
+Prod291,Shoko in a Bag,Condiments,186.53,81
+Prod292,Shoko in a Bag,Bakerey,131.02,92
+Prod293,Pita Pack,Electronics,32.58,165
+Prod294,Olive Oil 750ml,Bakery,95.2,199
+Prod295,Tahini Jar,Condiments,172.07,172
+Prod296,Tahini Jar,Condiments,9.85,98
+Prod297,Hummus Classic,Bakerey,281.17,77
+Prod298,Hummus Classic,Snacks,113.82,30
+Prod299,Pita Pack,Condiments,6.53,125
+Prod300,Hummus Classic,Bakerey,209.96,115
